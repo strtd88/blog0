@@ -1,5 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Another 🐶 blog</title><link>http://localhost:1313/blog0/</link><description>Recent content on Another 🐶 blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Apr 2025 16:25:48 -0700</lastBuildDate><atom:link href="http://localhost:1313/blog0/index.xml" rel="self" type="application/rss+xml"/><item><title>My Second Post</title><link>http://localhost:1313/blog0/posts/my-second-post/</link><pubDate>Sun, 06 Apr 2025 16:25:48 -0700</pubDate><guid>http://localhost:1313/blog0/posts/my-second-post/</guid><description>&lt;p>What the ____ am i actualling going to blog about?&amp;gt;?&amp;gt;?
-coming soon&amp;hellip;&lt;/p></description></item><item><title>Contact</title><link>http://localhost:1313/blog0/contact/</link><pubDate>Sun, 06 Apr 2025 15:42:39 -0700</pubDate><guid>http://localhost:1313/blog0/contact/</guid><description/></item><item><title>About</title><link>http://localhost:1313/blog0/about/</link><pubDate>Sun, 06 Apr 2025 15:42:35 -0700</pubDate><guid>http://localhost:1313/blog0/about/</guid><description>&lt;p>About this blog&amp;hellip;.&lt;/p></description></item><item><title>My First Blog Post</title><link>http://localhost:1313/blog0/posts/my-first-post/</link><pubDate>Sun, 06 Apr 2025 15:30:14 -0700</pubDate><guid>http://localhost:1313/blog0/posts/my-first-post/</guid><description>&lt;p>🐣 What is the purpose of this blog?&lt;/p>
-&lt;ul>
-&lt;li>DemoWare 0.0&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Another 🐶 blog</title>
+    <link>https://strtd88.github.io/blog0/</link>
+    <description>Recent content on Another 🐶 blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Apr 2025 16:25:48 -0700</lastBuildDate><atom:link href="https://strtd88.github.io/blog0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>https://strtd88.github.io/blog0/posts/my-second-post/</link>
+      <pubDate>Sun, 06 Apr 2025 16:25:48 -0700</pubDate>
+      
+      <guid>https://strtd88.github.io/blog0/posts/my-second-post/</guid>
+      
+      <description>&lt;p&gt;What the ____  am i actualling going to blog about?&amp;gt;?&amp;gt;?
+coming soon&amp;hellip;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://strtd88.github.io/blog0/about/</link>
+      <pubDate>Sun, 06 Apr 2025 15:42:35 -0700</pubDate>
+      
+      <guid>https://strtd88.github.io/blog0/about/</guid>
+      
+      <description>&lt;p&gt;About this blog&amp;hellip;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://strtd88.github.io/blog0/posts/my-first-post/</link>
+      <pubDate>Sun, 06 Apr 2025 15:30:14 -0700</pubDate>
+      
+      <guid>https://strtd88.github.io/blog0/posts/my-first-post/</guid>
+      
+      <description>&lt;p&gt;🐣 What is the purpose of this blog?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DemoWare 0.0&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 {
     "name": "Another 🐶 blog",
     "short_name": "Another 🐶 blog",
-    "start_url": "http://localhost:1313/blog0/",
+    "start_url": "https://strtd88.github.io/blog0/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
